@@ -1,4 +1,5 @@
-### Hi there 👋
+### ⚡️ Andréas HANSS
+#### Founder at Coding Spark | Full-stack Developer & Tech Lead | Freelancer | Entrepreneur
 
 <!--
 **ScreamZ/ScreamZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
