@@ -81,6 +81,9 @@ Feel free to explore my projects, contribute, or connect. Let's build something 
 - **[Observable state proxy](https://github.com/ScreamZ/observable-state-proxy)**  
   _Description:_ A library for managing state in embedded systems.
 
+- **[WiFi connection manager](https://github.com/ScreamZ/wifi-connection-manager)**  
+  _Description:_ A robust solution to manage Wi-Fi connections in embedded systems using the Moddable SDK.
+
 ### 2. **Server**
 
 - **[Animatronic](https://github.com/ScreamZ/Animatronic)**  
